@@ -1,0 +1,3 @@
+<!DOCTYPE jquery>
+<jquery>
+</jquery>
